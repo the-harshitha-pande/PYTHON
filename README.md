@@ -1,4 +1,4 @@
-# WELCOME TO MY PYTHON LEARNING JOURNEY
+# WELCOME TO MY PYTHON LEARNING JOURNEY✨
 Developing expertise in Python with curiosity
 I am an aspiring Analyst documenting my step-by-step progress as I learn Python for data analysis.
 
@@ -32,4 +32,4 @@ I am an aspiring Analyst documenting my step-by-step progress as I learn Python 
 ## 🎯 Goal
 Turning raw data into meaningful stories with Python
 
-✨ Thanks for visiting my learning journey! Stay tuned for more projects and progress 🌸
+✨ Thanks for visiting my learning journey! Stay tuned for more progress 
