@@ -1,4 +1,4 @@
-# 🌸 Welcome to My Python Learning Journey
+# Welcome to My Python Learning Journey
 Developing expertise in Python with curiosity
 I am an aspiring Analyst documenting my step-by-step progress as I learn Python for data analysis.
 
