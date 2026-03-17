@@ -4,18 +4,18 @@ I am an aspiring Analyst documenting my step-by-step progress as I learn Python 
 
 ## 📌 What I'm Learning
 
-• 🐍 Python basics 
-• 📊 Data analysis 
-• 🧹 Data cleaning and preprocessing 
-• 📈 Exploratory Data Analysis (EDA) 
+• 🐍 Python basics  
+• 📊 Data analysis  
+• 🧹 Data cleaning and preprocessing   
+• 📈 Exploratory Data Analysis (EDA)   
 • 📉 Data visualization and basic interpretation 
 
 ## 📂 Repository Structure
 
-• Basics → Python fundamentals
-• Pandas_practice → data manipulation & cleaning
-• Visualization → charts and graphs
-• Mini_projects → real-world data analysis projects
+• Basics → Python fundamentals  
+• Pandas_practice → data manipulation & cleaning  
+• Visualization → charts and graphs  
+• Mini_projects → data analysis projects
 
 ## 📚 Course I'm Following
 
